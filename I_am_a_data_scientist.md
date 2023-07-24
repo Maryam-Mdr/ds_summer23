@@ -2,7 +2,7 @@
 
 Please put your first and second name here, link it to your GitHub profile, and provide the title of the paper that you aim to reproduce. 
 
-- [Stephan Huber](https://github.com/hubchev): _Title of the paper_
+- [Maryam Mehdipour](https://github.com/Maryam-Mdr/ds_summer23.git):Analyses Of LNG Plant Constructions Engineering Deliverables Progress, Planned & Forecast
  
 - [Sonali Agrawal](https://github.com/SonaliAgraw): _Data_Science_report_Presentation_Vitthal-Shukla_Sonali-Agrawal_Huber_
 
